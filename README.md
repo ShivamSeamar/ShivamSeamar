@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamSeamar
 - 👀 I’m interested in ... WEB-Designing ,Android ,game ,App-Devlopment , Software Enginreeing 
-- 🌱 I’m currently learning ... B.Tech from Computer Science Enginreeing ,3rd year  (AKTU)
+- 🌱 I’m currently learning ... B.Tech from Computer Science Enginreeing ,4th year  (AKTU)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
