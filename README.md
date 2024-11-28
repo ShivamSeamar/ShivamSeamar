@@ -24,4 +24,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShivamSeamar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
