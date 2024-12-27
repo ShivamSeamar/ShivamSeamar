@@ -398,7 +398,7 @@ RECENT_ACTIVITY:last_update
 
 <!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
 <br><p align="center">
-<a href="https://github.com/trinib/trinib/graphs/contributors">
+<a href="https://github.com/ShivamSeamar/ShivamSeamar/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=trinib/trinib&max=10&anon=true" />
 </a>
 
