@@ -61,7 +61,7 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
- 🔭 I’m currently working on **Social Media Web Aplication**<br><br>- 🌱 I’m currently learning **MERN Stack , Three.js , Tailwind.css**<br><br>- 👯 I’m looking to collaborate on **MERN Stack Projects**<br><br>- 🤝 I’m looking for help with **MERN Stack Student**<br><br>- 👨‍💻 All of my projects are available at <a href="https://github.com/ShivamSeamar">[GitHub]</a><br><br>- 💬 Ask me about **MERN stack Developer**<br><br>- 📫 How to reach me :  shivamseamar5290@gmail.com <br><br>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1b8RWPzNdgzGv-EdAMEq8k94nRkN7m7jt/view?usp=sharing" alt="Resume Link">[Resume]</a><br><br>- ⚡ Fun fact **I am lazy but smart i**<br>
+ 🔭 I’m currently working on **Social Media Web Aplication**<br><br>- 🌱 I’m currently learning **MERN Stack , Three.js , Tailwind.css**<br><br>- 👯 I’m looking to collaborate on **MERN Stack Projects**<br><br>- 🤝 I’m looking for help with **MERN Stack Student**<br><br>- 👨‍💻 All of my projects are available at <a href="https://github.com/ShivamSeamar">[GitHub]</a><br><br>- 💬 Ask me about **MERN stack Developer**<br><br>- 📫 How to reach me :  shivamseamar5290@gmail.com <br><br>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1b8RWPzNdgzGv-EdAMEq8k94nRkN7m7jt/view?usp=sharing" alt="Resume Link">Resume</a><br><br>- ⚡ Fun fact **I am lazy but smart i**<br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 <!--## 🌐 Socials:-->
